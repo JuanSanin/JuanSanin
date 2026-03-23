@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola 👋
+
+🌱 Con el BOOM de la inteligencia artificial, GitHub ha cobrado especial importancia; es por eso que he dicidido abrir mi cuenta...
 
 <!--
 **JuanSanin/JuanSanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
